@@ -1,12 +1,12 @@
 body {
 display: block;
-
-width: 1240px;
+overflow-x: hidden;
+overflow-y: scroll;
+width: 100vw;
     margin-right: auto;
     margin-left: auto;
-
-
 }
+
  p {
    font-size: 19px;
  }
@@ -21,6 +21,8 @@ width: 1240px;
 .menu p {
   padding-top: 64px;
   padding-left: 80px;
+
+  font-family: "Circe-Regular";
 
   color: #4A4343;
 

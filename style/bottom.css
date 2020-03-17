@@ -1,3 +1,7 @@
-/* h1 {
-  font-family: "ProximaNova-Extrabld", sans-serif;
-} */
+.back img {
+  position: absolute;
+  width: 100%;
+  overflow: hidden;
+  z-index: -100;
+
+}

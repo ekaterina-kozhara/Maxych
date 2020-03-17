@@ -1,7 +1,20 @@
+.block-bottom {
+  position:absolute;
+  display: flex;
+}
+
 .back img {
   position: absolute;
   width: 100%;
   overflow: hidden;
   z-index: -100;
+}
 
+.circle img {
+  /* position: absolute; */
+  width: 492px;
+  height: 492px;
+  overflow: hidden;
+  z-index: 10;
+  margin-top: -200px;
 }

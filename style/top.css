@@ -1,0 +1,62 @@
+body {
+display: block;
+
+width: 1240px;
+    margin-right: auto;
+    margin-left: auto;
+
+
+}
+ p {
+   font-size: 19px;
+ }
+
+.menu {
+  display: flex;
+  justify-content: center;
+
+  background-color: #ffff;
+}
+
+.menu p {
+  padding-top: 64px;
+  padding-left: 80px;
+
+  color: #4A4343;
+
+  font-size: 20px;
+}
+
+.menu a:first-child {
+  margin-left: -160px;
+}
+
+.mainContent {
+
+}
+
+a, a:visited {
+  text-decoration: none;
+
+  color: #4A4343;
+}
+.menu img {
+  width: 60px;
+  height: auto;
+  padding-top: 32px;
+  padding-left: 80px;
+}
+
+.mainContent h1 {
+  font-family: "ProximaNova", sans-serif;
+  font-size: 70px;
+  line-height: 72px;
+}
+
+.mainContent  {
+  font-family: "Circe-Regular";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 33px;
+  line-height: 40px;
+}

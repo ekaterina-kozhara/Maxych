@@ -1,6 +1,10 @@
 .block-bottom {
   position:absolute;
   display: flex;
+  margin-top: 1000px;
+  width: 1240px;
+
+
 }
 
 .back img {
@@ -12,8 +16,8 @@
 
 .circle img {
   /* position: absolute; */
-  width: 492px;
-  height: 492px;
+  width: 452px;
+  height: 490px;
   overflow: hidden;
   z-index: 10;
   margin-top: -200px;
